@@ -69,7 +69,7 @@ Resources:
           cd /var/www/html
           sudo rm index.html
           sudo wget -P . https://udacity-lesson3.s3-us-west-2.amazonaws.com/index.html
-      ImageId: ami-005bdb005fb00e791
+      ImageId: ami-003634241a8fcdec0
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: t3.medium
