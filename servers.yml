@@ -68,7 +68,7 @@ Resources:
           sudo systemctl start apache2.service
           cd /var/www/html
           sudo rm index.html
-          sudo wget -P . https://udacity-lesson3.s3-us-west-2.amazonaws.com/index.html
+          sudo wget -P . https://myworlddevops.s3-us-west-2.amazonaws.com/index.html
       ImageId: ami-003634241a8fcdec0
       SecurityGroups:
       - Ref: WebServerSecGroup
