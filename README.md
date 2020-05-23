@@ -1,5 +1,4 @@
-# IAC
-Deploy a high-availability web app using CloudFormation
+# IAC: Deploy a high-availability web app using CloudFormation
 # Project 2 - Deploy a High-Availability Web App using CloudFormation 
 
 1. In this project (Myworlddevops), I deployed web servers for a highly available web app using CloudFormation.
